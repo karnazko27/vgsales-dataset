@@ -1,2 +1,6 @@
-# vgsales-dataset
-Simple Data VIsualization
+# Video Games Sales Analysis
+
+Source: https://www.kaggle.com/datasets/gregorut/videogamesales
+
+Simple Data Visualization Project
+
